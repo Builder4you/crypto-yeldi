@@ -1,0 +1,22 @@
+{
+  "name": "crypto-yeldi",
+  "version": "1.0.0",
+  "description": "app crypto yeldi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Builder4you/crypto-yeldi.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Builder4you/crypto-yeldi/issues"
+  },
+  "homepage": "https://github.com/Builder4you/crypto-yeldi#readme"
+}
